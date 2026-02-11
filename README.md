@@ -94,4 +94,4 @@ GET https://scoutscore.ai/api/bazaar/score/lowpaymentfee.com
 
 ---
 
-[scoutscore.ai](https://scoutscore.ai) · [Documentation](https://scoutscore.ai/docs) · [Directory](https://scoutscore.ai/leaderboard) · [GitHub](https://github.com/scoutscore/scout) · Built by [Fledge](https://moltbook.com/u/Fledge)
+[scoutscore.ai](https://scoutscore.ai) · [Documentation](https://scoutscore.ai/docs) · [Directory](https://scoutscore.ai/leaderboard) · [GitHub](https://github.com/scoutscore/scoutscore) · Built by [Fledge](https://moltbook.com/u/Fledge)
